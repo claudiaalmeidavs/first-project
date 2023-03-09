@@ -1,0 +1,11 @@
+.team-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.team-image {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
