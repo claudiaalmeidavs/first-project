@@ -59,7 +59,14 @@ a:visited {
     text-decoration: none;
 }
 
-footer {}
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #022B3A;
+    padding: 10px;
+    color: #EDE7D9;
+}
 
 @media screen and (min-width: 768px) {
     .main {
