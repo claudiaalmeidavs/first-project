@@ -1,0 +1,30 @@
+form {
+    display: inline-block;
+    text-align: left;
+    color: #022B3A;
+    padding: 10px;
+}
+
+input {
+    display: block;
+    width: 75%;
+    border-color: #ede7d974;
+    ;
+    border-radius: 5px;
+    background-color: #cacbc5;
+}
+
+textarea {
+    border-color: #ffff;
+    border-radius: 5px;
+    background-color: #cacbc5;
+}
+
+.submit {
+    display: block;
+    width: 100px;
+    color: #ffff;
+    border-color: #ffff;
+    border-radius: 5px;
+    background-color: #022B3A;
+}
