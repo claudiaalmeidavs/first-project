@@ -1,7 +1,14 @@
+#main-header {
+    display: inline-block;
+    padding-left: 30px;
+    margin-bottom: 0;
+}
+
 .hero {
     display: flex;
     flex-direction: row;
-    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     align-items: center;
 }
 
@@ -15,7 +22,9 @@
 
 .hero-text {
     justify-content: flex-start;
-    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
 }
 
 
